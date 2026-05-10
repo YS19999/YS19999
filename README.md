@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-
-<p>Welcome to my page! </br> I'm YangShun (杨顺), a doctoral student (class of 2025) at Sichuan University. </p>
+My name is Yang Shun. Currently, I am pursuing a doctoral degree at Sichuan University (class of 2025). My current main research areas include: physical information neural networks, intention recognition, multi-label classification, cross-domain learning, few-shot learning, meta-learning, multimodal processing and learning, etc.
+<p>Welcome to my page! </br> I'm YangShun (杨顺). Currently, I am pursuing a doctoral degree at Sichuan University (class of 2025). </br> My current main research areas include: physics-informed neural networks, intent recognition, multi-label classification, cross-domain learning, few-shot learning, meta-learning, multimodal processing and learning. </p>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
