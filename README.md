@@ -3,7 +3,7 @@
 
 <p>
 	Welcome to my page! </br> 
-	I'm **_YangShun_** (杨顺). Currently, I am pursuing a doctoral degree at Sichuan University (class of 2025). </br> 
+	I'm **YangShun** (杨顺). Currently, I am pursuing a doctoral degree at Sichuan University (class of 2025). </br> 
 	My current main research areas include: physics-informed neural networks, intent recognition, multi-label classification, cross-domain learning, few-shot learning, meta-learning, multimodal processing and learning. </br>
 	Welcome to have a discussion with me, especially in the areas that interest you. Please contact me via Email.
 </p>
