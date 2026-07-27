@@ -7,7 +7,7 @@
 	My current main research areas include: physics-informed neural networks, intent recognition, multi-label classification, cross-domain learning, few-shot learning, meta-learning, multimodal processing and learning. </br>
 	Welcome to have a discussion with me, especially in the areas that interest you. Please contact me via Email.
 </p>
-<h3>Open source projects</h3>
+<h3>News!!! (Open source projects)</h3>
 <table>
   <thead align="center">
     <tr border: none;>
